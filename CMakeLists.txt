@@ -11,4 +11,5 @@ add_subdirectory(src)
 
 ## Use next line if you are going to use Google Test
 ## add_subdirectory(lib/googletest)
+find_package( CURL )
 add_subdirectory(lib/curlpp)
