@@ -41,3 +41,5 @@
 /lib/.DS_Store
 /lib/googletest
 /lib/yaml-cpp
+/lib/curlpp
+/lib/curlpp/Readme.md
